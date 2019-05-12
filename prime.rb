@@ -12,5 +12,7 @@ def prime? (number)
   else
     range.each do |x|
       if number % x == 0 
-        check false 
+        check = false 
+        break 
+        
         
