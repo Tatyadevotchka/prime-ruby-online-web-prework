@@ -9,4 +9,5 @@ def prime? (number)
   check = TRUE
   if number < 2 
     check FALSE
+  else
     
