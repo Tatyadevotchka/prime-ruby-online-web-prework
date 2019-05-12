@@ -10,4 +10,5 @@ def prime? (number)
   if number < 2 
     check FALSE
   else
-    range.each do 
+    range.each do |x|
+      
