@@ -4,4 +4,5 @@ def prime? (number)
   return check
 end
 
-def prime? ()
+def prime? (number)
+  range 
