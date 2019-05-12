@@ -11,4 +11,4 @@ def prime? (number)
     check FALSE
   else
     range.each do |x|
-      if number 
+      if number % 
