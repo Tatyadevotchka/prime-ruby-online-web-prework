@@ -4,4 +4,4 @@ def prime? (number)
   return check
 end
 
-
+def prime? ()
