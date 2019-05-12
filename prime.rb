@@ -5,4 +5,4 @@ def prime? (number)
 end
 
 def prime? (number)
-  range = (2)
+  range = (2..(number))
