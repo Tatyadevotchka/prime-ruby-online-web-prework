@@ -14,5 +14,5 @@ def prime? (number)
       if number % x == 0 
         check = false 
         break 
-        
+      end
         
